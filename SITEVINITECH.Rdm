@@ -1,0 +1,176 @@
+---
+title: Módulo especial SITEVINITECH
+authors:
+  - name: Berard, Louise
+    department: Técnicas y Herramientas Modernas
+    affiliation: Facultad de Ingeniería, Uncuyo
+    location: Mendoza, Argentina
+    email: louise.berard28@gmail.com
+  - name: Ibañez, Celina 
+    department: Técnicas y Herramientas Modernas
+    affiliation: Facultad de Ingeniería, Uncuyo
+    location: Mendoza, Argentina
+    email: mcelinaibanez@gmail.com
+  - name: Mobilia, Pilar 
+    department: Técnicas y Herramientas Modernas
+    affiliation: Facultad de Ingeniería, Uncuyo
+    location: Mendoza, Argentina
+    email: pilarmobilia@gmail.com
+  - name: Torresi, Carla 
+    department: Técnicas y Herramientas Modernas
+    affiliation: Facultad de Ingeniería, Uncuyo
+    location: Mendoza, Argentina
+    email: torresi.carla16@gmail.com
+  - name: Valli, Karima 
+    department: Técnicas y Herramientas Modernas
+    affiliation: Facultad de Ingeniería, Uncuyo
+    location: Mendoza, Argentina
+    email: karimavallillalen@gmail.com
+  - name: Zanella, Bernardita 
+    department: Técnicas y Herramientas Modernas
+    affiliation: Facultad de Ingeniería, Uncuyo
+    location: Mendoza, Argentina
+    email: bernizanella2014@gmail.com
+abstract: |
+  La exposición SITEVINITECH, que reunió a expertos y profesionales de la vitivinicultura y agricultura de América Latina, ofreció una plataforma única para la interacción y el aprendizaje. Durante el evento, tuvimos la oportunidad de explorar diversos stands de empresas relacionadas con la industria, así como de participar en charlas y capacitaciones impartidas por especialistas de todo el mundo, incluyendo Francia. La convergencia de conocimientos y experiencias en este ámbito fomentó la colaboración, el intercambio de ideas y la creación de conexiones valiosas para el futuro de la vitivinicultura y la agricultura en la región. 
+keywords:
+  - Vitivinicultura
+  - Agricultura
+  - Exposición
+  - Charlas
+bibliography: references.bib
+biblio-style: apa
+output: rticles::arxiv_article
+---
+
+# Introduction
+
+La visita a SITEVINITECH, la destacada exposición de vitivinicultura y agricultura de América Latina, fue una experiencia enriquecedora. Durante nuestro recorrido, tuvimos la oportunidad de explorar diversos stands y observar de cerca las infraestructuras críticas que sustentan esta industria vital. Desde modernas bodegas hasta sistemas de riego avanzados, cada detalle contribuye al éxito de la producción vinícola y agrícola. Además, asistimos a charlas magistrales impartidas por expertos de todo el mundo, quienes compartieron conocimientos valiosos sobre las últimas tendencias y desafíos en el campo. En este informe, presentaremos imágenes capturadas durante nuestra visita y describiremos las infraestructuras clave que presenciamos, así como las ideas inspiradoras que surgieron de las charlas.
+
+# Expositores
+\label{sec:headings}
+
+A continuación, presentamos algunas de las empresas expositoras que tuvimos el privilegio de observar en los stands durante nuestra visita a SITEVINITECH:
+
+## SISA
+
+SISA SOLUCIONES INDUSTRIALES S.A. es una empresa argentina dedicada a brindar soluciones tecnológicas de alta calidad para la industria alimenticia. Representan marcas de gran prestigio a nivel mundial y se enfocan en ofrecer innovación y las mejores soluciones para los desafíos que enfrenta el sector. Su gama de servicios incluye asesoramiento, maquinaria, instalación, piping, montaje, mantenimiento y venta de repuestos originales para los equipos que comercializan.
+
+![SISA](sisa.png){width='400px' height='250px'}
+
+## ALTIERI
+
+Altieri se dedica a la fabricación de productos madereros, desde cápsulas para la industria vitivinícola hasta elementos esenciales para la logística y la construcción. Su compromiso con la calidad y la sostenibilidad los ha posicionado como un referente en el mercado.
+
+![Altieri](altieri.jpeg){width='200px' height='250px'}
+
+![Altieri 2](altieri2.jpeg){width='200px' height='250px'}
+
+## NEW HOLLAND
+
+New Holland es un líder mundial en la fabricación de maquinaria agrícola. Su amplia gama de productos y servicios abarca desde tractores agrícolas hasta cosechadoras, vendimiadoras, empacadoras de heno y más.
+
+![New Holland](newholland.jpeg){width='200px' height='250px'}
+
+## PALMERO
+
+PALMERO proveen bienes de capital y equipos en diferentes mercados.
+Distribuyen productos y repuestos, con el respaldo de reconocidas marcas de la industria, lo que los posiciona como referentes de los principales estándares de tecnología.
+Tienen su planta industrial San Luis, atienden los mercados de: Energía, Petróleo & Gas, Compresión de Aire, Agrícola, Construcción y Minería.
+
+![PALMERO](palmero.jpeg){width='200px' height='250px'}
+
+## MATEU
+
+Son representantes oficiales de Econovo en Mendoza, su misión es traer la última tecnología del mundo y la innovación india. Es una empresa nacional de más de quince años de desarrollo de maquinaria tecnológica de forma sustentable. Tienen el respaldo de una empresa tecnológica en creces con amplia disponibilidad de stocks, y la posibilidad de contar con productos de alto nivel y calidad agropecuaria.
+
+![MATEU](mateu.jpeg){width='200px' height='250px'}
+
+## METAL LINIERS
+
+METAL LINIERS es la cooperativa líder del mercado en el diseño, fabricación y comercialización de tanques, equipos y accesorios en acero inoxidable para la industria vitivinícola, olivícola, de transportes, cervecera y alimenticia en general.
+
+![METAL LINIERS](metalliniers.jpeg){width='200px' height='250px'}
+
+![METAL LINIERS 2](metalliniers2.jpeg){width='200px' height='250px'}
+
+# Charlas
+\label{sec:others}
+
+Durante nuestra visita a SITEVINITECH, tuvimos el privilegio de asistir a charlas magistrales impartidas por expertos de todo el mundo. Estas presentaciones abordaron temas cruciales para la industria vitivinícola y agrícola, y nos dejaron con ideas valiosas y perspectivas renovadas. A continuación, compartimos algunos momentos destacados:
+
+## Innovación en Viticultura Sostenible
+
+La charla fue dada por Nouvelle - Aquitaine Laurent Bernós, de VitiREV, el que dió un Programa de innovaciones técnicas y buenas prácticas para un sector vitivinícola más sostenible. Este enólogo francés compartió su experiencia en la aplicación de prácticas sostenibles en el viñedo. Desde el uso de energías renovables hasta la gestión eficiente del agua, su enfoque inspiró a muchos asistentes a adoptar soluciones más amigables con el medio ambiente.
+
+![Charla VitiREV](charla.jpeg){width='200px' height='250px'}
+
+## Posibilidades de inserción laboral en agro
+
+Esta charla fue dada por un panel de expertos formado por Alfredo Draque Director de Agricultura de la Provincia de Mendoza, Sergio Sottano y Fernando Lorenzo de New Holland, Alejandro Ambrogetti del INTA, entre otros. 
+En esta charla contaron que el INTA y New Holland se unieron para poder capacitar a las personas sobre el uso de ciertas máquinas, como un montacargas. Y que luego de esta capacitación lograban la inserción laboral de estas personas en diferentes empresas.
+
+## Organización FRENCH TECH Buenos Aires
+
+Esta charla fue dada por el francés Richard Emmanuel, quien contó de qué se trata la empresa French Tech. La cual es una comunidad franco-sudamericana con presencia en Argentina y Uruguay que reúne a emprendedores, altos ejecutivos, ingenieros, inversores, diseñadores, desarrolladores, asociaciones, operadores públicos que crean puentes entre el ecosistema tecnológico francés y local de tecnología e innovación. Y nos contó la importancia de aplicar ciertos sistemas en la industria vitinicola.
+
+
+## Tecnología de Riego Inteligente 
+
+Un ingeniero israelí presentó avances en sistemas de riego por goteo y sensores de humedad del suelo. Su charla resaltó cómo la tecnología puede optimizar el uso del agua y mejorar la calidad de la cosecha.
+
+## Desafíos en la Agricultura de Precisión 
+
+Un científico argentino compartió investigaciones sobre la agricultura de precisión y su impacto en la productividad. Desde drones hasta análisis de datos, exploramos cómo la tecnología está transformando la forma en que cultivamos.
+
+## El Futuro de la Vitivinicultura 
+
+Un panel de expertos debatió sobre las tendencias emergentes en la industria. Desde cepas resistentes al cambio climático hasta la comercialización global, estas conversaciones nos recordaron que la adaptabilidad es clave para el éxito.
+
+En resumen, las charlas en SITEVINITECH nos brindaron conocimientos valiosos y nos conectaron con una comunidad apasionada por la vitivinicultura y la agricultura. 
+
+# Infraestructura crítica
+
+En la provincia de Mendoza, el agua es un recurso de valor incalculable, especialmente para la industria vitivinícola que es el corazón de la región. La visita a SITEVINITECH nos permitió observar de cerca la infraestructura crítica que sostiene este sector vital: el sistema de riego. Mendoza, conocida por su clima árido, depende en gran medida de técnicas de riego innovadoras y eficientes para cultivar sus preciados viñedos.
+
+Empresas como NETAFIM, TODO RIEGO, ACONCAGRO y TECNORIEGO están a la vanguardia de esta revolución tecnológica en el riego. Utilizan métodos avanzados que incluyen sistemas de riego por goteo, fertirrigación y hasta el uso de drones para la monitorización y aplicación precisa del agua. Estas tecnologías no solo optimizan el uso del agua, sino que también mejoran la calidad de las uvas y, por ende, del vino producido.
+
+La importancia del agua en la vitivinicultura de Mendoza no puede ser subestimada. La región enfrenta desafíos significativos debido a la escasez hídrica, exacerbada por el cambio climático y el crecimiento de la actividad vitivinícola. La gestión eficiente del agua es crucial, ya que la demanda hídrica de la cadena vitivinícola es considerable y cualquier mejora en la infraestructura de riego puede tener un impacto significativo en la reducción del consumo de agua.
+
+Las cuencas hidrogeológicas de Mendoza, como la del río Mendoza y Tunuyán inferior, son explotadas con fines de riego y son fundamentales para el desarrollo económico de la provincia. La tecnificación del riego ha sido una inversión clave para los productores agrícolas, permitiendo un uso más eficiente del agua y ayudando a mitigar los efectos de la peor crisis hídrica que ha enfrentado la región en los últimos 30 años.
+
+En resumen, la infraestructura crítica de riego en Mendoza es un componente esencial para la sostenibilidad de su industria vitivinícola. Las empresas mencionadas están liderando el camino hacia un futuro más sostenible, donde cada gota de agua se utiliza de manera inteligente para asegurar que los viñedos de Mendoza continúen floreciendo en un entorno desafiante.
+
+![Aconcagro](aconcagro.jpeg){width='250px' height='250px'}
+
+![Riego](riego.jpeg){width='200px' height='250px'}
+
+- Hemos agregado algunas imágenes extra capturadas los días de las visitas a SITEVINITECH.
+
+![1](11.jpeg){width='200px' height='250px'}
+
+![2](6.jpeg){width='200px' height='250px'}
+
+![3](2.jpeg){width='200px' height='250px'}
+
+![4](3.jpeg){width='200px' height='250px'}
+
+![5](14.jpeg){width='200px' height='250px'}
+\pagebreak
+
+# Referencias Bibliográficas
+
+Listado de biboiografía páginas de web y material consultado para este trabajo.
+
+https://sitevinitech.com.ar/
+https://mateuagrovial.com.ar/
+https://palmero.com/
+http://metalliniers.com/
+https://altieri.com.ar/
+https://agromaqvirdo.com.ar/
+https://sisa-arg.com.ar/
+https://www.tecnoriegovalley.com.ar/
+https://aconcagro.odoo.com/
+https://www.todoriego.com.ar/site/
+https://www.netafim.com.mx/
+.
